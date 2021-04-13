@@ -387,7 +387,7 @@ footer {
 /*Listas de Precios*/
 .flip-box1 {
   background-color: transparent;
-  width: 500px;
+  width: 360px;
   height: 400px;
   perspective: 1000px;
   /* EFECTO 3D */
@@ -395,7 +395,7 @@ footer {
 
 .flip-box-inner1 {
   position: relative;
-  width: 500px;
+  width: 360px;
   height: 400px;
   text-align: center;
   transition: transform 0.8s;
@@ -407,7 +407,7 @@ footer {
 
 .flip-box-front1, .flip-box-back1 {
   position: absolute;
-  width: 500px;
+  width: 360px;
   height: 400px;
   -webkit-backface-visibility: hidden;
   backface-visibility: hidden; }
