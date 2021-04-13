@@ -99,6 +99,7 @@ body {
 /*TITULO DEL INDEX*/
 .px-3 {
   font-family: 'Josefin Sans', sans-serif;
+  margin:auto;
   margin-top: 2rem;}
 
 .tituloIndex {
