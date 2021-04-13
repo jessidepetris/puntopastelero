@@ -222,7 +222,8 @@ footer {
 .icon-10, .facebook, .icon-15, .instagram, .icon-8, .email {
   fill: #e9e9e9;
   padding-left: 3rem;
-  padding-right: 3rem; }
+  padding-right: 3rem;
+  margin-top: 3rem; }
 
 .icon-10:hover {
   fill: #0a042e; }
@@ -237,14 +238,16 @@ footer {
   .icon-10, .facebook, .icon-15, .instagram, .icon-8, .email {
     padding-left: 1.5rem;
     padding-right: 1.5rem;
-    margin-top: 1rem; }
+    margin-top: 3rem; }
+  
   .footerText {
     font-size: 0.7rem; } }
 
 @media (max-width: 340px) {
   .icon-10, .facebook, .icon-15, .instagram, .icon-8, .email {
     padding-left: 0.8rem;
-    padding-right: 0.8rem; } }
+    padding-right: 0.8rem;
+    margin-top: 3rem; } }
 
 /*PRODUCTOS*/
 /*Galeria*/
