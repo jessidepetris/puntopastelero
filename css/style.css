@@ -96,9 +96,14 @@ body {
   100% {
     background-position: 0% 50%; } }
 
+/*FOOTER ESPACIADO*/
+.mt-auto {
+   margin-top: 3rem; }
+
 /*TITULO DEL INDEX*/
 .px-3 {
-  font-family: 'Josefin Sans', sans-serif; }
+  font-family: 'Josefin Sans', sans-serif;
+  margin-top: 2rem;}
 
 .tituloIndex {
   text-align: center;
